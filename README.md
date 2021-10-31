@@ -23,7 +23,6 @@ Latihan menghitung luas dan keliling lingkaran python
 
 4.Perintah hasil luas lingkaran, print ("Luas Lingkaran Adalah =,luas)
 
-
 ![Gambar5](Scrennshot/Ss4.png)
 
 
